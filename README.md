@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### lokesh aravapalli (@avnlk)
+## Lokesh Aravapalli (@avnlk)
 
 systems & hardware · IIIT Bangalore
 

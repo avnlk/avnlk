@@ -4,7 +4,7 @@
 
 systems & hardware · IIIT Bangalore
 
-`C++` `Go` `FPGA` `HLS` `perf` `SystemVerilog`
+`C++` `FPGA` `HLS` `SystemVerilog` `Computer Architecture`
 
 ---
 <!-- 

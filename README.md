@@ -14,4 +14,4 @@ systems & hardware · IIIT Bangalore
 
 --- -->
 
-[portfolio](https://avnlk.github.io) · [linkedin](https://linkedin.com/in/avnlk) · [codeforces](https://codeforces.com/profile/avnlk)
+ [linkedin](https://linkedin.com/in/avnlk) · [codeforces](https://codeforces.com/profile/avnlk)

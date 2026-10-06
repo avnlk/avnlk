@@ -4,7 +4,7 @@
 
 systems & hardware · IIIT Bangalore
 
-`C++` `FPGA` `HLS` `SystemVerilog` `Computer Architecture`
+`C++` `FPGA` `HLS` `ASIC` `SystemVerilog` `Computer Architecture`
 
 ---
 <!-- 

@@ -4,6 +4,7 @@
 
 systems & hardware · IIIT Bangalore
 
+Most interesting thing i did till now:
 https://blog.janestreet.com/asic-puzzle-results/   - Ctrl + F and find my name "Lokesh Aravapalli"
 
 `C++` `FPGA` `HLS` `ASIC` `SystemVerilog` `Computer Architecture`
